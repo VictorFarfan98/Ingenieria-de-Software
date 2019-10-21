@@ -1,0 +1,15 @@
+{
+    "categoria": "algo", 
+    "productos": [
+        {
+            "producto_id": 1,
+            "producto_nombre": "algo",
+            "producto_precio": [
+                {
+                    "precio_intelaf": 2000,
+                    "precio_macro": 2500
+                }
+            ]
+        }
+    ]        
+}
