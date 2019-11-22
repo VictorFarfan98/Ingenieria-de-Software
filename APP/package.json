@@ -1,18 +1,18 @@
 {
-  "name": "tricommercedb",
+  "name": "tricommerce-app",
   "version": "1.0.0",
-  "description": "App that uses tricommerce api to save products",
+  "description": "App to insert into Tricommerce Database",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Victor Farfan",
+  "author": "",
   "license": "ISC",
   "dependencies": {
-    "firebase-admin": "^8.6.0",
-    "http": "0.0.0",
+    "firebase-admin": "^8.7.0",
+    "firestore": "^1.1.6",
+    "puppeteer": "^2.0.0",
     "request": "^2.88.0",
-    "requests": "^0.3.0",
     "system-sleep": "^1.3.6"
   }
 }

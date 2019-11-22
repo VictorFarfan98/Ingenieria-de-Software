@@ -1,15 +1,15 @@
 {
-  "name": "scraper-api-rest",
+  "name": "tricommerce-api",
   "version": "1.0.0",
-  "description": "API Rest para ser usado por Tricommerce para hacer Scrape a las páginas web",
+  "description": "This is the Tricommerce API for getting productos",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Tricommerce",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "puppeteer": "^1.20.0"
+    "puppeteer": "^2.0.0"
   }
 }
