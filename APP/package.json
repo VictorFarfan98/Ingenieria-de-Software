@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "firebase-admin": "^8.7.0",
+    "firebase-admin": "^11.4.1",
     "firestore": "^1.1.6",
     "puppeteer": "^2.0.0",
     "request": "^2.88.0",
